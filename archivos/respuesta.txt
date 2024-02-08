@@ -1,0 +1,1 @@
+Cuanto ejecuté el commit en consola para dejar el mensaje de que se subió la carpeta, aparecía que la carpeta no había sido creada
