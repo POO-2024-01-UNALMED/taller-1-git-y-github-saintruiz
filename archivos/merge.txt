@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ¿Por qué ahora si puedo crear un commit y subir la carpeta?
 Ahora sí puedo hacer un commit y subir la carpeta porque ya tenemos archivos (información) dentro de la carpeta.
 Recordemos que Git ignora los directorios vacios: A la hora de revisar el estado del repositorio (git status) aparece que no se ha hecho ningún cambio en la rama
-=======
 Santiago Ruiz Tascón, 18 años
 Aspiraciones con la materia: Seguirme entrenando como desarrollador y entender el paradigma más importante del desarrollo (La programación orientada a objetos)
->>>>>>> 1fcfa6b (Se creó el archivo merge.txt en el local)
