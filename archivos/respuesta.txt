@@ -1,1 +1,3 @@
 Cuanto ejecuté el commit en consola para dejar el mensaje de que se subió la carpeta, aparecía que la carpeta no había sido creada
+Actualización: Git no tiene en cuenta los directorios vacíos, por eso cuando creé la carpeta y trate de hacer el commit no me lo tuvo en cuenta, ya que lo tomaba como si no hubiera hecho ningún cambio
+
