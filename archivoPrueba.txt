@@ -1,2 +1,4 @@
 Se crea nuevamente el archivo para hecer prueba de conflicto
 texto texto texto texto texto texto texto texto
+Este es el texto que trataré de subir para crear un conflito
+texto de prueba texto de prueba texto de prueba texto de prueba
