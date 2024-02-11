@@ -1,0 +1,2 @@
+Se crea este archivo para hacer otra prueba de conflicto
+Texto de prueba Texto de prueba Texto de prueba Texto de prueba
