@@ -1,0 +1,2 @@
+Se crea nuevamente el archivo para hecer prueba de conflicto
+texto texto texto texto texto texto texto texto
